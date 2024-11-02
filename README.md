@@ -3,7 +3,7 @@
 ---
 ## I'm CSE student, not a EE student.  
 ## Thus I did only code subject, not a design circuit.  
-## THX for grace to give this exam, it is pleasure on my boring day.  
+## Thank you for the opportunity to take this exam. It's a pleasant break from my boring day  
 ---  
 
 
