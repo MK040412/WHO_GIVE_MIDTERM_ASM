@@ -19,7 +19,6 @@ In this function, we initialize array size is 10 (eg. 40 bit).
 #### Concise Instruction about the problem 
 ------------------------
 
-===
 ---
 ```c
 void process_array(int arr[10]){
