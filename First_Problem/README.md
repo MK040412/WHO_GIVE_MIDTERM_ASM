@@ -23,6 +23,8 @@ void process_array(int arr[10]) {
 **Task:**  
 Convert the given C code into a minimized RISC-V instruction stream.
 
+# <span style="color: red">!!Notice!! : I can't do below one, because I'm CSE student, Not a EE student</span>  
+
 ## 1.2. Instruction Memory Implementation (3 Points)
 
 **Task:**  
@@ -47,8 +49,6 @@ Modify or create the single-cycle RISC-V CPU code to run your generated instruct
   
 - **Zero Points:**  
   - Does not work.
-
-# <span style="color: red">!!Notice!! : I can't do below one, because I'm CSE student, Not a EE student</span>
 
 ### 1.2. Instruction Memory Implementation (3 Points)
 
