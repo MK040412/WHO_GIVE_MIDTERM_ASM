@@ -4,7 +4,6 @@
 ------------------------
 
 The problem says that convert C code into a minimized RISC-V instruction stream.
-===
 ---
 ```c
 void process_array(int arr[10])
