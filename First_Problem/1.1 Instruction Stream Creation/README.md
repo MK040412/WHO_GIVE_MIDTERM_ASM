@@ -1,5 +1,4 @@
 ### 1.1. Instruction Stream Creation (3 pts): Convert the given C code into a minimized RISC-V instruction stream.
-==================================================================================================================
 
 #### What is the problem 
 ------------------------
@@ -51,7 +50,7 @@ We need to see the logic about this code.
   I made briefly annotation on this code. But it doesn't give us concise understanding.  
   I'll show pseudo code about this problem.  
 
-    ##### Pseudocode for `process_array` Function
+     Pseudocode for `process_array` Function
 
 ```plaintext
 Function process_array(arr[10])
@@ -78,6 +77,5 @@ Function process_array(arr[10])
 End Function
 ```
 
-===
 
 
