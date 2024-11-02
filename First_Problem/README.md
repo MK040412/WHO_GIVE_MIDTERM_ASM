@@ -48,7 +48,7 @@ Modify or create the single-cycle RISC-V CPU code to run your generated instruct
 - **Zero Points:**  
   - Does not work.
 
-# I can't do below one, because I'm CSE student, Not a EE student.
+# <span style="color: red"> !!Notice!! : I can't do below one, because I'm CSE student, Not a EE student</span>
 
 ### 1.2. Instruction Memory Implementation (3 Points)
 
