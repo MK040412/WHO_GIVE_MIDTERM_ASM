@@ -1,6 +1,6 @@
 # Converting C Code to RISC-V Instructions (Total: 10 Points)
 
-You are given a fragment of C code. Your task is to convert this C code into a corresponding RISC-V instruction stream and ensure it runs correctly on a single-cycle RISC-V CPU. The following steps outline your work:
+The decription are given a fragment of C code. Task is to convert this C code into a corresponding RISC-V instruction stream and ensure it runs correctly on a single-cycle RISC-V CPU. The following steps outline your work:
 
 ```c
 void process_array(int arr[10]) { 
