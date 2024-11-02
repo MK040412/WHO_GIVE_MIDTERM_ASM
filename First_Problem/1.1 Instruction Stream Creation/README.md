@@ -15,7 +15,6 @@ It talk me make process_array function.
 For making array, we need knowlegde about stack and register.  
 Each of stack has the address for each word (eg. stack memory).  
 In this function, we initialize array size is 10 (eg. 40 bit).  
-===
 
 
 #### Concise Instruction about the problem 
