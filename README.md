@@ -1,10 +1,10 @@
 # WHY I'm doing this ASM assignmnet
 -----------------------------------
-  Someone who is in the K-Univ asked me "Can you do a assembly code?".
-  And I said "IDK about that", then he said "Oh, then try this"
-  That's why I am doing this assignment, and It gives me a joy on a boring day.
-  It is maden by the most generous person in korea. 
-  THX for Grace on this assignment. 
+-  Someone who is in the K-Univ asked me "Can you do a assembly code?".
+-  And I said "IDK about that", then he said "Oh, then try this"
+-  That's why I am doing this assignment, and It gives me a joy on a boring day.
+-  It is maden by the most generous person in korea. 
+-  THX for Grace on this assignment. 
 
 ## What you have to know
 -----------------------------------
