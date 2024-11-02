@@ -57,8 +57,12 @@ loop_end:
     addi    sp, sp, 16          # Deallocate stack space
     jalr    x0, ra, 0           # Return to caller
 
+
+
+        ####    Concise Explanation    ####
+        
 #|
-      /* Thanks https://github.com/darklife/darkriscv */
+        
   __heap_size    = 0x200;  /* required amount of heap */
   __stack_size  = 0x800;  /* required amount of stack */
 
