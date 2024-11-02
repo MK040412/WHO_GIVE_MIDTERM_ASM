@@ -6,7 +6,7 @@ That's why I am doing this assignment, and It gives me a joy on a boring day.
 It is maden by the most generous person in korea. 
 THX for Grace on this assignment. 
 
-## WHat you have to know
+## What you have to know
 
 *You have to know about RISC-V and Mips. Actually You have to know about RISC-V only.
 *But I love to code with MIPs. Thus I made MIPs version too 
