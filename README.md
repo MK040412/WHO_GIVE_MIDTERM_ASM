@@ -1,3 +1,9 @@
+# **Notice!!**
+===
+## I'm CSE student, not a EE student.  
+## Thus I did only code subject, not a design circuit.  
+## THX for grace to give this exam, it is pleasure on my boring day.  
+===
 # WHY I'm doing this ASM assignmnet
 -----------------------------------
 -  Someone who is in the K-Univ asked me "Can you do a assembly code?".
